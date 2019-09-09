@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-npm install --save syn_vue_date_finder
+npm install --save SynthetixLtd/syn_vue_date_finder
 ```
 
 ## Usage
